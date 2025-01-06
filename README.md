@@ -1,8 +1,5 @@
 
 
-Here’s a sample `README.md` file for your GitHub repository:  
-
-```markdown
 # ChefClaude - AI-Powered Recipe Generator 🍳
 
 **ChefClaude** is an AI-powered online chef application built using React 19 and the Hugging Face model `mistralai/Mixtral-8x7B-Instruct-v0.1`. This platform allows users to enter a list of ingredients and generate recipes tailored to their input. It's an intuitive and fun way to explore new dishes based on what you have at home!
@@ -48,16 +45,11 @@ Here’s a sample `README.md` file for your GitHub repository:
 
 3. **Set Up Hugging Face API**  
    - Obtain your Hugging Face API token from [Hugging Face](https://huggingface.co/).
-   - Create a `.env` file in the root directory and add:
-     ```
-     REACT_APP_HUGGING_FACE_API_KEY=your_hugging_face_api_key
-     ```
 
 4. **Run the Application**  
    ```bash
    npm start
-   ```
-
+   ```8
 
 
 ---
@@ -67,12 +59,8 @@ Visit **[ChefClaude](https://yourwebsiteurl.com)** to try it out live!
 
 ---
 
-## Screenshots 📸
-| Home Page | Recipe Generated |
-|-----------|------------------|
-| ![Home Page](https://via.placeholder.com/600x300) | ![Recipe](https://via.placeholder.com/600x300) |
 
----
+
 
 ## Contributing 🤝
 Contributions are welcome! If you have suggestions for new features or improvements:
