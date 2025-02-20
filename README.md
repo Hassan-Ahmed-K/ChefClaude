@@ -6,6 +6,12 @@
 
 ---
 
+## Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/AGQOokK6YxI/0.jpg)](https://youtu.be/AGQOokK6YxI)
+
+---
+
 ## Features 🌟
 - **Ingredient-Based Recipe Generation**: Enter as many ingredients as you like, and ChefClaude will create a unique recipe.
 - **Interactive UI**: The "Generate Recipe" button appears dynamically when at least four ingredients are entered.
